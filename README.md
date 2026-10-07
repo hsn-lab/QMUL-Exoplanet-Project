@@ -10,3 +10,5 @@ Sevenoaks School, Finding the parameters of exoplanets: https://www.qmul.ac.uk/s
 Planet Hunting, The Woodhouse Way:                      https://www.qmul.ac.uk/spcs/media/school-of-physical-and-chemical-sciences/legacy---school-of-physics-and-astronomy-/outreach/research-in-schools/PHwP_Talk_Example1.pdf
 
 Files for exoplanet hunting project with QMUL:          https://github.com/nadnosliw/py-exoplanet-hunt
+
+Richard Nelson, Astronomy & Maths Professor, QMUL:      https://github.com/rpn1966
